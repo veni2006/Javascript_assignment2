@@ -210,21 +210,4 @@ The frontend interface will open at: `http://localhost:5173`
 
 ---
 
-## 🖼️ Screenshots
-
-| Dashboard Overview | Student Registration Form |
-| :---: | :---: |
-| *Clean table with enrolled students and action buttons* | *Validation-ready form for adding and editing* |
-
-| View Student Profile Modal | Confirmation on Delete |
-| :---: | :---: |
-| *Detailed profile card with timestamps* | *Confirmation alert safeguarding data* |
-
----
-
-## 👤 Author
-
-* **Developer**: College Practical Examination Project
-* **Technology**: MERN Stack (MongoDB Atlas, Express.js, React.js, Node.js)
-* **License**: MIT
 
